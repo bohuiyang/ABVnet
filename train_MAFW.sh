@@ -11,5 +11,5 @@ CUDA_VISIBLE_DEVICES='0' nohup python main.py \
 --temporal-layers 1 \
 --img-size 224 \
 --exper-name FINAL_224 \
---detail "32dim+tanh" \
+--detail "" \
  > mafwtrain0.log 2>&1 &

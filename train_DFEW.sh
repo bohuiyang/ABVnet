@@ -13,4 +13,4 @@ CUDA_VISIBLE_DEVICES='0'  nohup python main.py \
 --img-size 224 \
 --exper-name FINAL_224 \
 --detail "" \
- > train1.log 2>&1 &
+ > dfewtrain0.log 2>&1 &
