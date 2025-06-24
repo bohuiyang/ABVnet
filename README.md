@@ -3,7 +3,7 @@
 
 This repository provides an official implementation for the paper ABVnet: Adapter-based fine-tuning Bimodal ViTs network for Dynamic Facial Expression Recognition in-the-wild
 
-
+![a](https://github.com/bohuiyang/ABVnet/blob/main/pic/arti.png)
 
 ## Installation
 
